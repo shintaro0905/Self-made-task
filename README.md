@@ -25,15 +25,18 @@
 #管理者ユーザー
 一般ユーザーの使用できる機能に加え下記が実行可能となっています。
 
-商品登録(管理ユーザー)
-商品編集(管理ユーザー)
-商品削除(管理ユーザー)
+- 商品登録(管理ユーザー)
+- 商品編集(管理ユーザー)
+- 商品削除(管理ユーザー)
 
-管理者ID：admin@admin.com
-管理者Pass：rootroot
+管理者ログイン情報は下記
+- 管理者ID：admin@admin.com
+- 管理者Pass：rootroot
 
 ## 環境
-MAMP(XAMPP)/MySQL/PHP
+- MAMP(XAMPP)
+- MySQL
+- PHP
 
 ## データベース名
 music_city
